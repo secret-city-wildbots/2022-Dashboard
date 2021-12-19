@@ -29,13 +29,13 @@
 			<Item Name="InitChecklistCustom.vi" Type="VI" URL="../InitChecklistCustom.vi"/>
 			<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
 		</Item>
-		<Item Name="Support Files" Type="Folder" URL="../Support Files">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
 		<Item Name="Rendering" Type="Folder">
 			<Item Name="RenderJoystickDiagram.vi" Type="VI" URL="../RenderJoystickDiagram.vi"/>
 			<Item Name="RenderRobotPose.vi" Type="VI" URL="../RenderRobotPose.vi"/>
 			<Item Name="RenderRobotSystemsDiagram.vi" Type="VI" URL="../RenderRobotSystemsDiagram.vi"/>
+		</Item>
+		<Item Name="Support Files" Type="Folder" URL="../../Support Files">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
