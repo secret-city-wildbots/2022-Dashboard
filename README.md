@@ -1,9 +1,11 @@
 # About
 Dashboard code for the Secret City Wildbots' 2022 series of robots.
 
-> Programming Lead: Amelie
-> Programming Lead-in-Training: Anya
-> Controls Mentor: Dr. Luke Scime (lrscime.alpha@gmail.com)
+Programming Lead: Amelie
+
+Programming Lead-in-Training: Anya
+
+Controls Mentor: Dr. Luke Scime (lrscime.alpha@gmail.com)
 
 # Programmer Instructions
 1. Clone the "main" branch (GitClone)
