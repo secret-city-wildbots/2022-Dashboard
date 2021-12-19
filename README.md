@@ -1,7 +1,7 @@
 # About
 Dashboard code for the Secret City Wildbots' 2022 series of robots.
 
-Programming Lead: Amelie ***test
+Programming Lead: Amelie ***test2
 
 Programming Lead-in-Training: Anya
 
