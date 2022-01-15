@@ -28,6 +28,7 @@
 			<Item Name="ButtonColorChooser.vi" Type="VI" URL="../ButtonColorChooser.vi"/>
 			<Item Name="InitChecklistCustom.vi" Type="VI" URL="../InitChecklistCustom.vi"/>
 			<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
+			<Item Name="SwerveModuleReadData.vi" Type="VI" URL="../SwerveModuleReadData.vi"/>
 		</Item>
 		<Item Name="Rendering" Type="Folder">
 			<Item Name="RenderJoystickDiagram.vi" Type="VI" URL="../RenderJoystickDiagram.vi"/>
