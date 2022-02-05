@@ -4,12 +4,12 @@
 4. Check tablet and both game controllers
 5. Confirm robot connection and battery voltage
 6. Confirm camera connections
-7. Set driver and robot profiles
+7. Set driver profile
 8. Configure auto play and push robot pose based on playbook
 9. Configure auto delay and endgame alert
 10. Check speaker volume
 11. Confirm no master alarms
-12. Confirm all override switchs are green or orange
+12. Confirm all override switches are green or orange
 13. Open graphs, enable print statements, clear console errors
 14. Start OBS screen recording
 15. Leave in the TeleOp tab for drivers
