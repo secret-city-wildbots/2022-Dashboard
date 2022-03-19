@@ -324,17 +324,17 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">113</Property>
+				<Property Name="Bld_version.build" Type="Int">114</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/FRC_Dashboard/Dashboard.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">Secret City Dashboard.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/FRC_Dashboard/Secret City Dashboard.exe</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/FRC_Dashboard/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Support/App EXE.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{591D9A3C-2C93-4C47-A181-0397404E4B94}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2833B338-FFCA-4A7E-AD0B-60BE55D57FF6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
@@ -352,7 +352,7 @@
 				<Property Name="TgtF_fileDescription" Type="Str">FRC_Dashboard</Property>
 				<Property Name="TgtF_internalName" Type="Str">FRC_Dashboard</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{AEE2EF3D-7087-47D6-AEAE-9F87F896ED5E}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Dashboard.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Secret City Dashboard.exe</Property>
 			</Item>
 		</Item>
 	</Item>
