@@ -1,16 +1,23 @@
-1. Connect laptop to power and FMS
-2. Check tablet and both game controllers
-3. Confirm robot connection and battery voltage
-4. Confirm no Falcon boot errors, reboot RIO if needed
-5. Confirm camera connections
+1.  Connect laptop to power and FMS
+2.  Open Driver Station
+3.  Close dashboard
+4.  Open graphs, enable print statements, clear console errors
+5.  Check tablet and both game controllers
+6.  Check speaker volume
+7.  Check computer battery performance setting is at best performance
 
-6. Set driver profile
-7. Set auto play and push robot pose based on playbook
-8. Set auto delay and endgame alert
+8.  Confirm robot connection and battery voltage
+9.  Wait for LL connection message, restart code if needed
+10. Open dashbaord again
+11. Confirm no Falcon boot errors, reboot RIO if needed
+12. Confirm camera connections
+13. Set ball rejection slider to automatic
 
-9. Check speaker volume
-10. Confirm no master alarms
-11. Confirm all override switches are green
-12. Open graphs, enable print statements, clear console errors
-13. Start OBS screen recording
-14. Leave in the TeleOp tab for drivers
+14. Set driver profile
+15. Set auto play and push robot pose based on playbook
+16. Set auto delay and endgame alert
+
+17. Confirm no master alarms
+18. Confirm all override switches are green
+19. Start OBS screen recording
+20. Leave in the TeleOp tab for drivers
