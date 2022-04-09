@@ -7,7 +7,7 @@
 
 7.  Confirm robot connection and battery voltage
 8.  Wait for LL connection message, restart code if needed
-9. Open dashbaord 
+9.  Open dashbaord 
 10. Confirm no Falcon boot errors, reboot RIO if needed
 
 11. Set driver profile
